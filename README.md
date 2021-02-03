@@ -39,7 +39,7 @@ For the analysis will use users' provided feedback through their site to express
 
 _MIT_
 
-Copyright(c) Fiona Cherutto, William Okomba and Jerome Mberia
+Copyright(c) 2021 Fiona Cherutto William Okomba and Jerome Mberia
 
 
 ## Contact Information
