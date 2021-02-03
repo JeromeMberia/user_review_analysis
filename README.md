@@ -37,7 +37,7 @@ For the analysis will use users' provided feedback through their site to express
 
 ## License
 
-_MIT_
+MIT
 
 Copyright(c) 2021 Fiona Cherutto William Okomba and Jerome Mberia
 
